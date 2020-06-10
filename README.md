@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Botão WhatsApp</title>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/style.css">
-</head>
-
 <style>
   html {
   margin: 0;
@@ -127,17 +116,6 @@ p {
       que contém a frase "Fale conosco via WhatsApp".
     </p>
   </div>
-
-  <div>
-    <a href="https://api.whatsapp.com/send?phone=551199999999&text=Olá,%20este%20é%20um%20texto%20que%20você%20pode%20modificar."
-      target="_blank" class="float">
-      <img src="img/whatsapp.svg" alt="whatsapp" width="50">
-    </a>
-    <div id="msg1">Fale conosco via WhatsApp</div>
-  </div>
-
-  <script src="js/jquery.js"></script>
-  <script src="js/script.js"></script>
 </body>
 
 </html>
