@@ -6,36 +6,6 @@ html {
   color: rgba(255, 255, 255, 0.932);
 }
 
-.center {
-  width: 80%;
-  margin: auto;
-}
-
-h1 {
-  font-size: 80px;
-}
-
-p {
-  text-align: justify;
-  font-size: 20px;
-}
-
-#div-img-exemplo {
-  display: flex;
-  align-items: center;
-}
-
-.imgs {
-  width: 100%;
-}
-
-#img-exemplo {
-  width: 80%;
-  display: flex;
-  align-items: center;
-  margin: auto;
-}
-
 .float{
   right:40px;
   position:fixed;
