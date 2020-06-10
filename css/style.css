@@ -14,7 +14,7 @@ html {
   z-index:100;
 }
 
-#msg1 {
+#caixaTexto {
   background: #fff;
   color: #000;
   position: fixed;
@@ -31,7 +31,7 @@ html {
 }
 
 @media (max-width: 480px){
-  #msg1 {
+  #caixaTexto {
     display: none !important;
   }
 
