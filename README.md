@@ -35,7 +35,7 @@
 
   <div>
     <p>
-      Após fazer essas alterações você pode fazer manipular a duração dos eventos lá no script.js,
+      Após fazer essas alterações você pode manipular a duração dos eventos lá no script.js,
       você pode também manipular o CSS para deixar tudo do seu gosto, como o  estilo da caixa de texto
       que contém a frase "Fale conosco via WhatsApp".
     </p>
